@@ -13,4 +13,4 @@ twitter: mallovelli
 
 ## check it out
 
-[inmiti](https://codepen.io/bigMalloy/pen/oNoNzXN) 
+[click me](https://codepen.io/bigMalloy/pen/oNoNzXN) 
