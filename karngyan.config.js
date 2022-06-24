@@ -2,7 +2,7 @@
 
 export default {
   name: 'Mokutmfon Okon',
-  domain: 'mallovelli.netlify.app', // add without https:// , used in meta tags and share urls
+  domain: 'mallovelli.live', // add without https:// , used in meta tags and share urls
   image: '/images/Bigheadmallovelli2.png',
   email: 'mokut.okon4@gmail.com',
   googleAnalyticsV4: {
@@ -24,9 +24,9 @@ export default {
   social: {
     github: 'mallovelli',
     linkedin: 'Mokutmfon Okon',
-    facebook: 'Malloy Okon',
+    //facebook: 'Malloy Okon',
     twitter: 'mallovelli',
-    instagram: 'mancshaft_',
+    //instagram: 'mancshaft_',
     codestats: 'Mallovelli' // https://codestats.net make a profile if you dont already have one.
   },
   buyMeACoffee: {
@@ -106,8 +106,8 @@ export default {
         iBlogTech: 'I write about my travels',
         haveALook: 'have a look',
         friendlyNeighborhood: 'your not so friendly neighbourhood',
-        description: 'I am a Front End developer, UX designer specializing in Graphics/Visual Design and a part time freelancer. I write a few articles about my interests monthly, and tinker with side projects every now and then.',
-        words: ['developer', 'designer', 'engineer', 'programmer', 'writer', 'photographer'],
+        description: 'Im a UX designer with some background in front-end development. My passion for novel exploration inspires me to make designs empathetically, to promote the social integration of people of different races, and various socioeconomic statuses, with or without disabilities while matching the rapid technological development. I’m always excited to work with a team of multiple personalities to facilitate authenticity of products.',
+        words: ['UI designer', 'UX designer', 'Visual designer', 'Web designer', 'Product designer', 'Developer'],
       },
       githubCalendar: {
         header: 'contributions',
@@ -127,7 +127,7 @@ export default {
       },
       projects: {
         header: 'projects',
-        subtext: 'this page lists some of my personal and work projects. every project has some story, click on the title to read'
+        subtext: 'This page lists some of my certification projects, work projects and personal projects. Every project has some story, click on the title to view'
       },
       recommendations: {
         header: 'recommendations',
