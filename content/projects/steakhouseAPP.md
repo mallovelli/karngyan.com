@@ -14,5 +14,5 @@ twitter: mallovelli
 ## Relevare et in fortissime dammis poples ut
 
 [click me to view on full PDF mode](https://coursera-assessments.s3.amazonaws.com/assessments/1649342966286/ee83b1d2-c35c-4e14-d9c3-ef729c3c6736/Portfolio%20Project%201%20-%20Case%20study%20slide%20deck%20%5BFood%20delivery%20app%20for%20a%20steakhouse%5D.pdf) 
-![Big Head Karn](/static/MALLOVELLI2.svg)
+![pdf](/static/Portfolio Project 1 - Case study slide deck [Food delivery app for a steakhouse].pdf)
 
