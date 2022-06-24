@@ -1,8 +1,8 @@
 ---
-id: 2
-title: javascript.calc
-description: random scientific calculations on the web
-tech: javascript css html
+id: 3
+title: javascript calculator
+description: this is project built for making random scientific calculations on the web
+tech: javascript css html react
 logo: /MALLOVELLI2.svg
 website: https://codepen.io/bigMalloy/pen/NWgqEre
 github: https://github.com/mallovelli/Javascript-Calculator
@@ -13,5 +13,5 @@ twitter: mallovelli
 
 ## check it out
 
-[click me](https://www.google.com](https://codepen.io/bigMalloy/pen/NWgqEre)
+[click me](https://codepen.io/bigMalloy/pen/NWgqEre)
 
