@@ -9,7 +9,7 @@ github: https://github.com/mallovelli/twitch-api-for-streamstats
 twitter: mallovelli
 ---
 
-# This project liveson codepen
+# This project lives on codepen
 
 ## check it out
 
