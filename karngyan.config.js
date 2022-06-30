@@ -23,7 +23,7 @@ export default {
   },
   social: {
     github: 'mallovelli',
-    linkedin: 'Mokutmfon Okon',
+    linkedin: 'linkedin.com/in/mokutmfon-okon-ab5255116',
     //facebook: 'Malloy Okon',
     twitter: 'mallovelli',
     //instagram: 'mancshaft_',
@@ -105,9 +105,9 @@ export default {
       hero: {
         iBlogTech: 'I write about my travels',
         haveALook: 'have a look',
-        friendlyNeighborhood: 'your not so friendly neighbourhood',
-        description: 'Im a UX designer with some background in front-end development. My passion for novel exploration inspires me to make designs empathetically, to promote the social integration of people of different races, and various socioeconomic statuses, with or without disabilities while matching the rapid technological development. I’m always excited to work with a team of multiple personalities to facilitate authenticity of products.',
-        words: ['UI designer', 'UX designer', 'Visual designer', 'Web designer', 'Product designer', 'Developer'],
+        friendlyNeighborhood: 'Hi, you can call me Malloy',
+        description: 'Im a UI/UX designer with some background in front-end development. My passion for novel exploration inspires me to make designs empathetically, to promote the social integration of people, while matching the rapid technological development. I’m always excited to work with a team of multiple personalities to facilitate authenticity of products.',
+        words: ['UI designer', 'UX designer', 'Visual designer', 'Web designer', 'Product designer', 'Developer', 'UI engineer'],
       },
       githubCalendar: {
         header: 'contributions',
