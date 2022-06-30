@@ -41,7 +41,7 @@ export default {
   },
   resume: {
     enabled: true,
-    pdfUrl: '/mallovelliResume.pdf' // add files in static folder
+    pdfUrl: '/MainResume (1).pdf' // add files in static folder
   },
   uses: {
     enabled: true,
