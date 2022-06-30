@@ -9,7 +9,7 @@ github: nil
 twitter: mallovelli
 ---
 
-# Responsive website App design
+# Responsive web App design
 
 Jose’s digital garage is a tool used to connect users with automobile manufacturers cutting out middlemen( mechanics and car salesmen). We also function as digital car outlet for car lease, or purchase of  high-quality parts and vehicles. As part of an initiative to give back to the community we offer free car checkups and car health tips. Our primary target are car owners who are looking to cut down maintenance cost while still ensuring quality, also prospective car owners who are looking to learn more about the cars. 
 
