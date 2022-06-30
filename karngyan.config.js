@@ -41,10 +41,10 @@ export default {
   },
   resume: {
     enabled: true,
-    pdfUrl: '/MainResume (1).pdf' // add files in static folder
+    pdfUrl: '/MainResume (2).pdf' // add files in static folder
   },
   uses: {
-    enabled: true,
+    enabled: false,
     //meta: [
       //{title: 'OS', value: 'Windows 10 pro'},
       //{title: 'Memory', value: '16 GB 2667 MHz DDR4'},
