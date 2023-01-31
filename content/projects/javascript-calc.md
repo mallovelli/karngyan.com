@@ -4,7 +4,7 @@ title: javascript calculator
 description: this project is built for making random scientific calculations on the web
 tech: javascript css html react
 logo: /MALLOVELLI2.svg
-website: https://codepen.io/bigMalloy/pen/NWgqEre
+website: https://react-javascript-calc.netlify.app
 github: https://github.com/mallovelli/Javascript-Calculator
 twitter: mallovelli
 ---
@@ -13,5 +13,5 @@ twitter: mallovelli
 
 ## check it out
 
-[click me](https://codepen.io/bigMalloy/pen/NWgqEre)
+[click me](https://react-javascript-calc.netlify.app)
 
