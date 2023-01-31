@@ -4,7 +4,7 @@ title: weather app
 description: a simple weather app showing the current weather conditions at your location. A project on implementing Apis
 tech: javascript css html jquery
 logo: /MALLOVELLI2.svg
-website: https://codepen.io/bigMalloy/pen/Yzrbqdw
+website: https://webweatherchecker.netlify.app
 github: https://github.com/mallovelli/Weather-app
 twitter: mallovelli
 ---
@@ -14,6 +14,6 @@ twitter: mallovelli
 ## Check it out
 
 
-[click me](https://codepen.io/bigMalloy/pen/Yzrbqdw) 
+[click me](https://webweatherchecker.netlify.app) 
 
 
